@@ -1,0 +1,2 @@
+C:\Users\EBaj\source\repos\testAddIn_02\testAddIn_02\obj\Debug\testAddIn_02.csproj.AssemblyReference.cache
+C:\Users\EBaj\source\repos\testAddIn_02\testAddIn_02\obj\Debug\testAddIn_02.csproj.CoreCompileInputs.cache

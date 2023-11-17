@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\testAddIn_02Manifest.xml
+C:\Users\EBaj\source\repos\testAddIn_02\testAddIn_02\bin\Debug\testAddIn_02.debugapp
